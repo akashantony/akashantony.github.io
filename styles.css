@@ -1,3 +1,20 @@
 body{
-  background: yellow;
+  background: lightyellow;
+  display: inline-block;
+  padding: 20px;
+  border:2px pink solid;
+  margin: 2px;
+
+
+}
+#link{
+  font-size: 50px;
+}
+.team {
+
+  font-family: cursive;
+}
+@media screen and (max-width: 300px){
+body{background-color: blue;
+  }
 }
